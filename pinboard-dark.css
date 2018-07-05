@@ -6,12 +6,12 @@ div#logo {
     font-size: 18px !important;
 }
 div#logo img.pin_logo {
-    content: url("https://raw.githubusercontent.com/ScottKillen/scottkillen.github.io/master/pinboardlogo.png") !important;
+    content: url("https://bitbucket.org/Scottkillen/userstyles/raw/5cf55c08325d0c28a6f840b3fa5b93679cb52549/img/pin.png") !important;
     width: 16px;
     height: 16px;
 }
 body {
-    background: #222 url(https://user-images.githubusercontent.com/1509989/28423535-4c9e1476-6d39-11e7-9cb6-b0b3c0ad586d.jpg) repeat fixed left top !important;
+    background: #222 url("https://bitbucket.org/Scottkillen/userstyles/raw/5cf55c08325d0c28a6f840b3fa5b93679cb52549/img/dark-background.jpg") repeat fixed left top !important;
     background-clip: border-box !important;
     background-origin: padding-box !important;
     background-size: auto !important;
