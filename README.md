@@ -7,4 +7,4 @@ for: ![Pinboard logo](img/pinboard.gif) [Pinboard](https://pinboard.in)
 ### ElysaHenegar larger font
 published: [userstyles.org](https://userstyles.org/styles/155318/elysahenegar-larger-font)
 
-for: ![E](img.elysahenegar.png) [Breathing](http://elysahenegar.com/)
+for: ![E](img/elysahenegar.png) [Breathing](http://elysahenegar.com/)
