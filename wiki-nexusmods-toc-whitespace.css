@@ -1,0 +1,5 @@
+@-moz-document domain("wiki.nexusmods.com") {
+    table.va-mbox[style] {
+        width: auto !important;
+    }
+}
