@@ -2,7 +2,7 @@
 
 ### Pinboard Dark
 
-published: [userstyles.org](https://userstyles.org/styles/151351/pinboard-dark)
+published: [userstyles.world](https://userstyles.world/style/1340/pinboard-dark)
 
 for: ![Pinboard logo](img/pinboard.gif) [Pinboard](https://pinboard.in)
 
@@ -10,13 +10,13 @@ for: ![Pinboard logo](img/pinboard.gif) [Pinboard](https://pinboard.in)
 
 ### ElysaHenegar (larger font)
 
-published: [userstyles.org](https://userstyles.org/styles/155318/elysahenegar-larger-font)
+published: [userstyles.world](https://userstyles.world/style/1342/elysahenegar-larger-font)
 
 for: ![E](img/elysahenegar.png) [Breathing](https://elysahenegar.com/)
 
 ### Nexus Mods Wiki (fix whitespace for large table of contents)
 
-published: [userstyles.org](https://userstyles.org/styles/179738/nexus-mods-wiki-whitespace)
+published: [userstyles.world](https://userstyles.world/style/1341/nexus-mods-wiki-whitespace)
 
 for: ![E](img/nexusmods.png) [Nexus Mods Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
 
