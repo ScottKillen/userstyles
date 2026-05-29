@@ -1,3 +1,5 @@
+# This project has moved to https://codeberg.org/nellik/userstyles
+
 This repository hosts a collection of user-created themes and styles designed to enhance the browsing experience on specific websites. These themes and styles allow users to customize the appearance of websites, improving readability and visual appeal according to individual preferences.
 
 ## Installation
